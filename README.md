@@ -1,4 +1,5 @@
 # 👋 Olá, sou @AlineOCiriaco!
+Estudante de Análise e Desenvolvimento de Sistemas.
 
 Bem-vindo ao meu cantinho no GitHub! Aqui você vai encontrar um pouco do que eu amo e faço. Vamos lá? 🚀
 
@@ -36,4 +37,4 @@ Estou em uma **transição de carreira**, deixando a fisioterapia para me aventu
 
 ---
 
-Vamos nos conectar e criar algo incrível juntos! 🌟
+Perfil em desenvolvimento! 🌟
