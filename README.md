@@ -2,9 +2,9 @@
 
 Recém-formada em **Análise e Desenvolvimento de Sistemas (FIAP)**, migrando da Fisioterapia para o desenvolvimento web. Da fisio eu trago disciplina, atenção a detalhes e experiência real com clientes — agora aplicando isso em código.
 
-🔭 **No momento:** construindo landing pages como freelancer e me aprofundando em Python.
+🔭 **No momento:** construindo landing pages como freelancer e me aprofundando em Power BI.
 
-🛠️ **Stack:** HTML, CSS, JavaScript, Python (aprendendo), Java, SQL
+🛠️ **Stack:** HTML, CSS, JavaScript, Power BI (aprendendo), Java, SQL
 
 💼 **Disponível para:** projetos freelance de landing pages e sites institucionais.
 
