@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./octocat.png" alt="Meu octocat" width="240" />
+</p>
+
 ### 👋 Olá, sou a Aline!
 
 Recém-formada em **Análise e Desenvolvimento de Sistemas (FIAP)**, migrando da Fisioterapia para o desenvolvimento web. Da fisio eu trago disciplina, atenção a detalhes e experiência real com clientes — agora aplicando isso em código.
