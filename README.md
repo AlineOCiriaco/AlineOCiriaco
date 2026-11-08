@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./octocat.png" alt="Meu octocat" width="240" />
-</p>
+<table>
+  <tr>
+    <td valign="middle" width="60%">
 
 ### 👋 Olá, sou a Aline!
 
@@ -29,6 +29,13 @@ Recém-formada em **Análise e Desenvolvimento de Sistemas (FIAP)**, migrando da
 😄 Pronomes: ela/dela
 
 ⚡ Fã de animes e doramas — se você também curte o mundo geek, vamos conversar!
+
+</td>
+    <td valign="middle" align="center" width="40%">
+      <img src="./octocat.png" alt="Meu octocat" width="320" />
+    </td>
+  </tr>
+</table>
 
 ---
 
