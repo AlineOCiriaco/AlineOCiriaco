@@ -15,3 +15,25 @@ Recém-formada em **Análise e Desenvolvimento de Sistemas (FIAP)**, migrando da
 😄 Pronomes: ela/dela
 
 ⚡ Fã de animes e doramas — se você também curte o mundo geek, vamos conversar!
+
+
+---
+
+### 📊 Métricas do GitHub
+
+<p align="center">
+  <img src="./metrics.base.svg" alt="Visão geral" />
+</p>
+
+<p align="center">
+  <img src="./metrics.isocalendar.svg" alt="Calendário de contribuições" />
+</p>
+
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Linguagens" />
+  <img src="./metrics.habits.svg" alt="Hábitos" />
+</p>
+
+<p align="center">
+  <img src="./metrics.notable.svg" alt="Contribuições notáveis" />
+</p>
