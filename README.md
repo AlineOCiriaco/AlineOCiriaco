@@ -28,7 +28,7 @@ Recém-formada em **Análise e Desenvolvimento de Sistemas (FIAP)**, migrando da
 
 </td>
     <td valign="middle" align="center" width="40%">
-      <img src="./octocat.png" alt="Meu octocat" width="320" />
+      <img src="./octocat.png" alt="Meu octocat" width="360" />
     </td>
   </tr>
 </table>
