@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AlineOCiriaco">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=F5F5F0&center=true&vCenter=true&width=720&height=40&lines=Tecn%C3%B3loga+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Constru%C3%A7%C3%A3o+de+produtos+digitais+com+IA+generativa;Dados+%26+Power+BI;Fisioterapeuta+em+UTI+adulto" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=F5F5F0&center=true&vCenter=true&width=720&height=40&lines=Tecn%C3%B3loga+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+transi%C3%A7%C3%A3o+de+carreira+para+tecnologia;Desenvolvimento+web;Dados%2C+Power+BI+%26+IA+generativa" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 👋 Olá, sou a Aline!
 
-Tecnóloga em **Análise e Desenvolvimento de Sistemas (FIAP, concluído em agosto de 2026)** e fisioterapeuta há mais de cinco anos, hoje em UTI adulto. Construo produtos digitais de ponta a ponta com apoio de IA generativa. Da UTI eu trago decisão sob pressão, comunicação clara entre equipes e o hábito de seguir protocolos e acompanhar indicadores.
+Tecnóloga em **Análise e Desenvolvimento de Sistemas (FIAP, concluído em agosto de 2026)**, em transição de carreira da Fisioterapia para a tecnologia. Estou aprendendo na prática: estudando, errando, corrigindo e construindo projetos, com foco em desenvolvimento web, dados e IA generativa.
 
 🔭 **No momento:** aprofundando em IA generativa e criação de agentes, dados e Power BI (Bootcamp Santander).
 
