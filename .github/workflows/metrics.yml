@@ -1,9 +1,7 @@
 # Gera os SVGs de métricas do perfil (lowlighter/metrics). Requer o secret METRICS_TOKEN.
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]   # roda todo dia à meia-noite UTC
   workflow_dispatch:                 # permite rodar manualmente
-  push: {branches: ["main", "master"]}
   
 permissions:
   contents: write

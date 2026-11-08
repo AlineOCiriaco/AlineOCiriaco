@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=180&section=header&text=Aline%20Ciriaco&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlineOCiriaco">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedora+Web;Landing+pages+%26+sites+institucionais;Ex-fisioterapeuta+em+transi%C3%A7%C3%A3o+de+carreira;Aprendendo+Power+BI" alt="Typing SVG" />
+  </a>
+</p>
+
 ### 👋 Olá, sou a Aline!
 
 Recém-formada em **Análise e Desenvolvimento de Sistemas (FIAP)**, migrando da Fisioterapia para o desenvolvimento web. Da fisio eu trago disciplina, atenção a detalhes e experiência real com clientes — agora aplicando isso em código.
@@ -16,24 +26,33 @@ Recém-formada em **Análise e Desenvolvimento de Sistemas (FIAP)**, migrando da
 
 ⚡ Fã de animes e doramas — se você também curte o mundo geek, vamos conversar!
 
+---
+
+### 🧰 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,powerbi&perline=5" alt="Tecnologias" />
+</p>
 
 ---
 
-### 📊 Métricas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="./metrics.base.svg" alt="Visão geral" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlineOCiriaco&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineOCiriaco&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="./metrics.isocalendar.svg" alt="Calendário de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=AlineOCiriaco&theme=radical&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlineOCiriaco&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus" />
 </p>
 
 <p align="center">
-  <img src="./metrics.languages.svg" alt="Linguagens" />
-  <img src="./metrics.habits.svg" alt="Hábitos" />
-</p>
-
-<p align="center">
-  <img src="./metrics.notable.svg" alt="Contribuições notáveis" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=100&section=footer" alt="Rodapé" />
 </p>
