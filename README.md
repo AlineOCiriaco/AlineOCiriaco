@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/AlineOCiriaco">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedora+Web;Landing+pages+%26+sites+institucionais;Ex-fisioterapeuta+em+transi%C3%A7%C3%A3o+de+carreira;Aprendendo+Power+BI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=D62D2D&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedora+Web;Landing+pages+%26+sites+institucionais;Ex-fisioterapeuta+em+transi%C3%A7%C3%A3o+de+carreira;Aprendendo+Power+BI" alt="Typing SVG" />
   </a>
 </p>
 
