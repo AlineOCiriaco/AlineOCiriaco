@@ -74,9 +74,13 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas (FIAP, concluído em agos
   <img src="https://streak-stats.demolab.com/?user=AlineOCiriaco&theme=radical&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
-### 🏆 Troféus
+### 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlineOCiriaco&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus" />
+  <img src="https://img.shields.io/badge/FIAP-ADS%20conclu%C3%ADdo%20em%202026-D62D2D?style=for-the-badge" alt="FIAP ADS" />
+  <img src="https://img.shields.io/badge/HCFMUSP-P%C3%B3s%20em%20Fisioterapia%20Hospitalar-52467D?style=for-the-badge" alt="Pós em Fisioterapia Hospitalar" />
+  <img src="https://img.shields.io/badge/Santander-Bootcamp%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Bootcamp Power BI" />
+  <img src="https://img.shields.io/badge/Idiomas-Espanhol%20B1%20%C2%B7%20Ingl%C3%AAs%20A1-3DD9F0?style=for-the-badge&logoColor=black" alt="Idiomas" />
+  <img src="https://img.shields.io/github/followers/AlineOCiriaco?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores no GitHub" />
 </p>
 
